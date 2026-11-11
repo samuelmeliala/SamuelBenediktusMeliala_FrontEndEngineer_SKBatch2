@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Role Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+    <h1>Sekolah Karir - Role Explorer</h1>
+    <section id="role-explorer">
+      <h2>Explore Roles</h2>
+
+      <div class="filter-bar">
+        <p>Filter by department:</p>
+        <div class="filter-options">
+          <label class="filter-option">
+            <input type="checkbox" class="role-filter-checkbox" value="Engineering" />
+            Engineering
+          </label>
+          <label class="filter-option">
+            <input type="checkbox" class="role-filter-checkbox" value="Design" />
+            Design
+          </label>
+          <label class="filter-option">
+            <input type="checkbox" class="role-filter-checkbox" value="Product" />
+            Product
+          </label>
+          <label class="filter-option">
+            <input type="checkbox" class="role-filter-checkbox" value="Marketing" />
+            Marketing
+          </label>
+          <label class="filter-option">
+            <input type="checkbox" class="role-filter-checkbox" value="Human Resources" />
+            Human Resources
+          </label>
+        </div>
+      </div>
+      <div id="role-grid" class="role-grid" />
+    </section>
+  </main>
+
+  <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Engineer",
+    "department": "Engineering",
+    "type": "Full-time",
+    "description": "Build responsive and scalable user interfaces using React/Next.js."
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "department": "Engineering",
+    "type": "Full-time",
+    "description": "Design and maintain RESTful APIs and database architecture."
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "department": "Design",
+    "type": "Full-time",
+    "description": "Create intuitive wireframes, prototypes, and visual design systems."
+  },
+  {
+    "id": 4,
+    "title": "Product Designer",
+    "department": "Design",
+    "type": "Contract",
+    "description": "Conduct user research and translate insights into product features."
+  },
+  {
+    "id": 5,
+    "title": "Product Manager",
+    "department": "Product",
+    "type": "Full-time",
+    "description": "Define product roadmap, prioritize features, and align cross-functional teams."
+  },
+  {
+    "id": 6,
+    "title": "Digital Marketing Specialist",
+    "department": "Marketing",
+    "type": "Full-time",
+    "description": "Manage performance marketing campaigns, SEO, and social media growth."
+  }
+]
